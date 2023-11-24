@@ -113,7 +113,6 @@ price,region,address,bedrooms,bathrooms
 "$999,000","Ajax, ON","0 CUNLIFFE LANE, Ajax, Ontario",4,4
 "$1,486,000","Ajax, ON","1177 CHURCH ST N, Ajax, Ontario",4 + 1,4
 "$1,100,000","Ajax, ON","56 MARSHALL CRES, Ajax, Ontario",3 + 1,3
-$1,"Ajax, ON","N/A SALEM RD, Ajax, Ontario",,
 "$1,349,800","Ajax, ON","L70 COPPINI LANE, Ajax, Ontario",3,3
 "$1,200,000","Ajax, ON","0 NIMMO LANE N, Ajax, Ontario",3,3
 "$3,499,000","Ajax, ON","2405 AUDLEY RD, Ajax, Ontario",4,2
@@ -251,8 +250,6 @@ $1,"Ajax, ON","N/A SALEM RD, Ajax, Ontario",,
 "$3,500,000","Clarington, ON","1953 HIGHWAY 2 RD, Clarington, Ontario",3,1
 "$3,500,000","Clarington, ON","2571 SOLINA RD, Clarington, Ontario",3,2
 "$1,800,000","Clarington, ON","3741 LAKESHORE RD E, Clarington, Ontario",4 + 1,5
-$1,"Clarington, ON","725 LAKE RD, Clarington, Ontario",,
-$1,"Clarington, ON","318 BENNETT RD, Clarington, Ontario",,
 "$2,900,000","Clarington, ON","0 EAST BEACH RD, Clarington, Ontario",0,
 "$3,950,000","Clarington, ON","1610 CONCESSION ROAD 7 RD, Clarington, Ontario",3 + 1,4
 "$2,599,900","Clarington, ON","24 TAMBLYN RD, Clarington, Ontario",3,
@@ -697,7 +694,6 @@ $1,"Clarington, ON","318 BENNETT RD, Clarington, Ontario",,
 "$1,588,800","Uxbridge, ON","1 HORNER CRT, Uxbridge, Ontario",3 + 1,3
 "$1,599,900","Uxbridge, ON","432 BREWSTER RD, Uxbridge, Ontario",0,
 "$1,849,000","Uxbridge, ON","125 SECOND AVE, Uxbridge, Ontario",4,4
-$1,"Uxbridge, ON","9411 CONCESSION 2 RD, Uxbridge, Ontario",6,6
 "$999,000","Uxbridge, ON","1 BAGSHAW CRES, Uxbridge, Ontario",0,
 "$899,900","Uxbridge, ON","22404 YORK DURHAM LINE, East Gwillimbury, Ontario",0,
 "$899,900","Uxbridge, ON","22404 YORK DURHAM Line, East Gwillimbury, Ontario",,
@@ -839,7 +835,6 @@ $1,"Uxbridge, ON","9411 CONCESSION 2 RD, Uxbridge, Ontario",6,6
 "$3,999,998","Whitby, ON","9795 BALDWIN ST N, Whitby, Ontario",,
 "$1,499,000","Whitby, ON","20 CASSELS RD E, Whitby, Ontario",0,
 "$1,499,000","Whitby, ON","20 CASSELS RD E, Whitby, Ontario",3 + 0,2
-$1,"Whitby, ON","N/A CHAMPLAIN AVE, Whitby, Ontario",,
 "$2,499,999","Whitby, ON","400 ST JOHN ST W, Whitby, Ontario",5 + 2,4
 "$1,295,000","Whitby, ON","0 BALDWIN ST N, Whitby, Ontario",,
 "$3,750,000","Whitby, ON","1370 BRAWLEY RD W, Whitby, Ontario",4 + 1,3
@@ -1241,17 +1236,14 @@ $1,"Whitby, ON","N/A CHAMPLAIN AVE, Whitby, Ontario",,
 "$3,490,000","Halton Hills, ON","152 CONFEDERATION ST, Halton Hills, Ontario",3,2
 "$12,990,000","Halton Hills, ON","10543 REGIONAL ROAD 25, Halton Hills, Ontario",3,3
 "$1,999,000","Halton Hills, ON","10498 HIGHWAY 7, Halton Hills, Ontario",2 + 1,1
-$1,"Halton Hills, ON","8686 EIGHTH LINE, Halton Hills, Ontario",,
 "$1,999,999","Halton Hills, ON","15 SIDEROAD 15, Halton Hills, Ontario",0,
 "$1,999,999","Halton Hills, ON","15 SIDE ROAD 15, Halton Hills, Ontario",,
 "$7,950,000","Halton Hills, ON","14145 EIGHTH LINE, Halton Hills, Ontario",7,6
-$1,"Halton Hills, ON","8846 LINE 10, Halton Hills, Ontario",,
 "$2,575,000","Halton Hills, ON","0 MILL ST, Halton Hills, Ontario",,
 "$6,000,000","Halton Hills, ON","12871 REGIONAL ROAD 25 RD, Halton Hills, Ontario",3,1
 "$6,000,000","Halton Hills, ON","12871 REGIONAL ROAD 25 Road, Halton Hills, Ontario",0 + 0,0
 "$5,499,905","Halton Hills, ON","12069 STEELES AVE, Halton Hills, Ontario",3,3
 "$15,330,000","Halton Hills, ON","7729 EIGHTH LINE, Halton Hills, Ontario",,
-$1/acres,"Halton Hills, ON","282 MAIN ST N, Halton Hills, Ontario",,
 "$14,800,000","Halton Hills, ON","13357 22 SDRD, Halton Hills, Ontario",,
 "$14,800,000","Halton Hills, ON","13357 22 SDRD, Halton Hills, Ontario",0,
 "$1,699,900","Milton, ON","323 BESSBOROUGH Drive, Milton, Ontario",4 + 0,4
@@ -1873,7 +1865,6 @@ $1,"Oakville, ON","4243 SIXTH LINE, Oakville, Ontario",,
 "$2,930,000","Oakville, ON","1376 PINERY CRES, Oakville, Ontario",4,4
 "$1,649,000","Oakville, ON","383 SOUTHVIEW RD, Oakville, Ontario",3 + 1,2
 "$2,930,000","Oakville, ON","1376 PINERY Crescent, Oakville, Ontario",4 + 0,4
-$1,"Oakville, ON","772 WINSTON CHURCHILL BLVD, Oakville, Ontario",,
 "$1,448,000","Oakville, ON","3322 CARDING MILL TR, Oakville, Ontario",4,4
 "$1,448,000","Oakville, ON","3322 CARDING MILL Trail, Oakville, Ontario",4 + 0,4
 "$879,900","Oakville, ON","#219 -11 BRONTE RD, Oakville, Ontario",1 + 1,2
@@ -1902,12 +1893,8 @@ $1,"Oakville, ON","772 WINSTON CHURCHILL BLVD, Oakville, Ontario",,
 "$3,490,000","Oakville, ON","145 WOLFDALE AVE, Oakville, Ontario",4,4
 "$4,150,000","Oakville, ON","441 WEDGEWOOD DR, Oakville, Ontario",4 + 1,5
 "$4,150,000","Oakville, ON","441 WEDGEWOOD Drive, Oakville, Ontario",4 + 1,5
-$0.01,"Oakville, ON","N/A UPPER MIDDLE RD E, Oakville, Ontario",,
 "$3,750,000","Oakville, ON","489 BURNHAMTHORPE RD E, Oakville, Ontario",,
 "$3,750,000","Oakville, ON","489 BURNHAMTHORPE RD E, Oakville, Ontario",3,3
-$1,"Oakville, ON",Address not available,,
-$1,"Oakville, ON","3316 DUNDAS ST W, Oakville, Ontario",,
-$1,"Oakville, ON","3316 DUNDAS ST W, Oakville, Ontario",3,2
 "$936,523","Oakville, ON","#306 -297 OAK WALK DRIVE RD, Oakville, Ontario",2,2
 "$9,988,000","Oakville, ON","1084 ARGYLE DR, Oakville, Ontario",3 + 1,3
 "$9,988,000","Oakville, ON","1084 ARGYLE Drive, Oakville, Ontario",3 + 1,3
@@ -4242,7 +4229,6 @@ $1,"Georgina, ON","N/A KENNEDY RD, Georgina, Ontario",0,
 "$2,188,000","Markham, ON","38 ELM ST, Markham, Ontario",3 + 1,3
 "$6,500,000","Markham, ON","157 LANGSTAFF RD E, Richmond Hill, Ontario",,
 "$6,490,000","Markham, ON","1 CAMPBELL CRT, Markham, Ontario",4,3
-$1,"Markham, ON","0* 14TH AVE, Markham, Ontario",,
 "$5,080,000","Markham, ON","57 RIVER BEND RD, Markham, Ontario",4 + 2,4
 "$3,288,000","Markham, ON","4230 19TH AVE, Markham, Ontario",5 + 2,4
 "$2,599,900","Markham, ON","24 MAPLE LANE, Markham, Ontario",3,1
@@ -5356,8 +5342,6 @@ $1,"Vaughan, ON","10069 WESTON RD, Vaughan, Ontario",,
 "$1,790,000","Whitchurch-Stouffville, ON","5373 MAIN ST, Whitchurch-Stouffville, Ontario",4 + 1,2
 "$1,899,000","Whitchurch-Stouffville, ON","315 BABE'S WAY, Whitchurch-Stouffville, Ontario",2 + 1,2
 "$3,580,000","Whitchurch-Stouffville, ON","3948 VANDORF SDRD, Whitchurch-Stouffville, Ontario",3 + 1,4
-$1,"Whitchurch-Stouffville, ON","** AURORA RD, Whitchurch-Stouffville, Ontario",,
-$1,"Whitchurch-Stouffville, ON","4951 AURORA RD, Whitchurch-Stouffville, Ontario",,
 "$1,520,000","Whitchurch-Stouffville, ON","2 MYRON ST, Whitchurch-Stouffville, Ontario",4 + 1,4
 "$1,399,000","Whitchurch-Stouffville, ON","40 WILLIAM STARK RD, Whitchurch-Stouffville, Ontario",4,3
 "$1,698,800","Whitchurch-Stouffville, ON","91 GREENHOUSE LANE, Whitchurch-Stouffville, Ontario",5,4
